@@ -1,0 +1,8 @@
+{
+  "name": "RecipArt",
+  "description": "A gallery of receipt art where users guess the bill total. Features privacy blurring, AI art generation, and receipt analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

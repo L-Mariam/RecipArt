@@ -1,0 +1,1 @@
+// File deleted in favor of services/ocrService.ts
